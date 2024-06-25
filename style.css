@@ -1,12 +1,12 @@
 @media screen and (min-width: 800px){
-body {background-color: rgb(0, 13, 124);
+body {background-color: rgb(0, 26, 255);
                                     }
 }
                                 
                                 .p1{text-align: center;
                                 font-size: 400%;
-                                color:rgb(5, 199, 248); 
-                                border-color: rgb(0, 168, 14);
+                                color:rgba(5, 199, 248, 0); 
+                                border-color: rgb(0, 255, 21);
                                 border-width: 6px;
                                 border-style: double; 
                                 margin-left: 20%;
@@ -18,8 +18,8 @@ body {background-color: rgb(0, 13, 124);
                                 
                                 .p2{
                                     font-size: 200%;
-                                    color:rgb(0, 81, 255); 
-                                    border-color: rgb(200, 214, 0);
+                                    color:rgba(0, 81, 255, 0); 
+                                    border-color: rgb(238, 255, 0);
                                     border-width: 6px;
                                     border-style: groove; 
                                     margin-left: 20%;
@@ -30,8 +30,8 @@ body {background-color: rgb(0, 13, 124);
                                 
                                     .p3{
                                         font-size: 150%;
-                                        color:rgb(255, 196, 0); 
-                                        border-color: rgb(212, 96, 0);
+                                        color:rgba(255, 196, 0, 0); 
+                                        border-color: rgb(255, 0, 0);
                                         border-width: 6px;
                                         border-style: groove; 
                                         margin-left: 60%;
@@ -43,7 +43,7 @@ body {background-color: rgb(0, 13, 124);
                                 
                                         .p4{
                                             font-size: 200%;
-                                            color:rgb(121, 143, 0); 
+                                            color:rgba(122, 143, 0, 0); 
                                             border-color: rgb(255, 0, 212);
                                             border-width: 6px;
                                             border-style: groove; 
@@ -56,8 +56,8 @@ body {background-color: rgb(0, 13, 124);
                                 
                                             .p5{
                                                 font-size: 150%;
-                                                color:rgb(54, 145, 2); 
-                                                border-color: rgb(0, 68, 255);
+                                                color:rgba(54, 145, 2, 0); 
+                                                border-color: rgb(0, 238, 255);
                                                 border-width: 6px;
                                                 border-style: groove; 
                                                 margin-left: 60%;
@@ -69,8 +69,8 @@ body {background-color: rgb(0, 13, 124);
                                 
                                                 .p6{
                                                     font-size: 200%;
-                                                    color:rgb(2, 128, 80); 
-                                                    border-color: rgb(5, 105, 75);
+                                                    color:rgba(2, 128, 80, 0); 
+                                                    border-color: rgb(114, 6, 255);
                                                     border-width: 6px;
                                                     border-style: groove; 
                                                     margin-left: 20%;
@@ -82,8 +82,8 @@ body {background-color: rgb(0, 13, 124);
                                 
                                                     .p7{
                                                         font-size: 150%;
-                                                        color:rgb(183, 0, 255); 
-                                                        border-color: rgb(197, 100, 100);
+                                                        color:rgba(183, 0, 255, 0); 
+                                                        border-color: rgb(0, 0, 0);
                                                         border-width: 6px;
                                                         border-style: groove; 
                                                         margin-left: 60%;
@@ -95,8 +95,8 @@ body {background-color: rgb(0, 13, 124);
                                 
                                                         .p8{
                                                             font-size: 200%;
-                                                            color:rgb(25, 0, 255); 
-                                                            border-color: rgb(115, 0, 138);
+                                                            color:rgba(25, 0, 255, 0); 
+                                                            border-color: rgb(255, 0, 179);
                                                             border-width: 6px;
                                                             border-style: groove; 
                                                             margin-left: 20%;
@@ -108,8 +108,8 @@ body {background-color: rgb(0, 13, 124);
                                 
                                                             .p9{
                                                                 font-size: 150%;
-                                                                color:rgb(212, 1, 1); 
-                                                                border-color: rgb(190, 171, 59);
+                                                                color:rgba(212, 1, 1, 0); 
+                                                                border-color: rgb(79, 187, 128);
                                                                 border-width: 6px;
                                                                 border-style: groove; 
                                                                 margin-left: 60%;
@@ -120,8 +120,8 @@ body {background-color: rgb(0, 13, 124);
                                 
                                                                 .p10{
                                                                     font-size: 200%;
-                                                                    color:rgb(0, 116, 71); 
-                                                                    border-color: rgb(219, 76, 66);
+                                                                    color:rgba(0, 116, 72, 0); 
+                                                                    border-color: rgb(185, 24, 12);
                                                                     border-width: 6px;
                                                                     border-style: groove; 
                                                                     margin-left: 20%;
